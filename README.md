@@ -125,11 +125,19 @@ A comprehensive, high-traffic classifieds marketplace featuring:
 
 <div align="center">
 
-[![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelOnyekachukwuJohn&show_icons=true&theme=dracula)](https://github.com/EmmanuelOnyekachukwuJohn)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelOnyekachukwuJohn&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelOnyekachukwuJohn&layout=compact&theme=dracula)](https://github.com/EmmanuelOnyekachukwuJohn)
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelOnyekachukwuJohn&theme=dracula)](https://github.com/EmmanuelOnyekachukwuJohn)
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelOnyekachukwuJohn&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117)
+
+</div>
+
+<div align="center">
+
+**[View My GitHub Profile](https://github.com/EmmanuelOnyekachukwuJohn)** →
 
 </div>
 
