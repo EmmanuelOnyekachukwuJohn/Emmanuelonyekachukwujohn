@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-I'm a **Lead Software Engineer** with **5+ years** of hands-on experience architecting and delivering **scalable, enterprise-grade web and mobile applications**. I specialize in bridging the gap between complex technical challenges and elegant solutions.
+I'm a **Lead Software Engineer** with **5+ years** of hands-on experience architecting and delivering **scalable, enterprise-grade web and mobile applications**. I specialize in bridging the gap between complex technical challenges and elegant, user-centric solutions.
 
 ### What I Do:
 - 🏗️ Design and implement **scalable, production-ready architectures**
@@ -125,11 +125,19 @@ A comprehensive, high-traffic classifieds marketplace featuring:
 
 <div align="center">
 
-[![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelOnyekachukwuJohn&show_icons=true&theme=dracula)](https://github.com/EmmanuelOnyekachukwuJohn)
+[![GitHub Followers](https://img.shields.io/github/followers/EmmanuelOnyekachukwuJohn?style=flat-square&logo=github&logoColor=white&label=Followers&color=0891b2)](https://github.com/EmmanuelOnyekachukwuJohn)
+[![GitHub User Stars](https://img.shields.io/github/stars/EmmanuelOnyekachukwuJohn?style=flat-square&logo=github&logoColor=white&label=Total%20Stars&color=f59e0b)](https://github.com/EmmanuelOnyekachukwuJohn)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&logoColor=white&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/EmmanuelOnyekachukwuJohn&color=8b5cf6)](https://github.com/EmmanuelOnyekachukwuJohn?tab=repositories)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelOnyekachukwuJohn&layout=compact&theme=dracula)](https://github.com/EmmanuelOnyekachukwuJohn)
+### 📈 Activity Overview
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelOnyekachukwuJohn&theme=dracula)](https://github.com/EmmanuelOnyekachukwuJohn)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelOnyekachukwuJohn&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&icon_color=f0f0f0&text_color=f0f0f0)
+
+### 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelOnyekachukwuJohn&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&text_color=f0f0f0)
+
+**[View Full Profile →](https://github.com/EmmanuelOnyekachukwuJohn)**
 
 </div>
 
