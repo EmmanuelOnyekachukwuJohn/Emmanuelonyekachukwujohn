@@ -130,12 +130,7 @@ A comprehensive, high-traffic classifieds marketplace featuring:
 [![Public Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&logoColor=white&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/EmmanuelOnyekachukwuJohn&color=8b5cf6)](https://github.com/EmmanuelOnyekachukwuJohn?tab=repositories)
 
 ### 📈 Activity Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelOnyekachukwuJohn&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&icon_color=f0f0f0&text_color=f0f0f0)
-
-### 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelOnyekachukwuJohn&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&text_color=f0f0f0)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelOnyekachukwuJohn&theme=dracula)](https://github.com/EmmanuelOnyekachukwuJohn)
 
 **[View Full Profile →](https://github.com/EmmanuelOnyekachukwuJohn)**
 
