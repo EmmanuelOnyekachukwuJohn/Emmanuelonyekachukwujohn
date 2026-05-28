@@ -21,7 +21,7 @@ I'm a **Lead Software Engineer** with **5+ years** of hands-on experience archit
 
 ## 💼 Professional Experience
 
-### **Lead Developer** @ [Kirt Africa](https://ng.kirtafrica.com)
+### **Lead Developer** @[Kirt Africa](https://ng.kirtafrica.com)
 *Onitsha, Nigeria • June 2022 - Present*
 
 Leading the complete technical development of a high-traffic classifieds marketplace platform:
@@ -95,7 +95,7 @@ A comprehensive, high-traffic classifieds marketplace featuring:
 - Docker Swarm deployment strategy
 - Real-time user interactions
 
-**Tech Stack:** React, Node.js, Express, PostgreSQL, Docker
+**Tech Stack:** React, React Native, Node.js, Express, PostgreSQL, **🪳Cochroachdb**, Mongodb, Redis, Docker
 
 ---
 
@@ -123,8 +123,8 @@ A comprehensive, high-traffic classifieds marketplace featuring:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emmanuelonyekachukwujohn@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanueljohn)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/emmanueljohn)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuelonyekachukwujohn)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/emmaonyekajohn)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2348168647417)
 
 </div>
@@ -169,6 +169,6 @@ I'm **immediately available** for:
 
 **Made with ❤️ by Emmanuel John**
 
-*Last Updated: 2026*
+**Last Updated:** *2026*
 
 </div>
